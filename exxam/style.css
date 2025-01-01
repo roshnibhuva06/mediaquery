@@ -1,0 +1,98 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav
+{
+    height: 50PX;
+    width: 70%;
+    /* background-color: antiquewhite; */
+    margin: auto;
+    margin-top: 4%;
+}
+.nav p
+{
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+}
+.nav h1
+{
+    text-align: center;
+    padding: 15px;
+    font-size: 38px;
+    font-weight: 700;
+}
+.container
+{
+    height: 300px;
+    width: 70%;
+   
+    margin: auto;
+    margin-top: 8%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.box
+{
+    height: 240px;
+    width: 32%;
+    /* background-color: bisque; */
+    border: 1px solid grey;
+    padding: 16px 20px;
+}
+.box img
+{
+    border-radius: 50%;
+    height: 70px;
+    width: 25%;
+    margin-top: 18%;
+}
+.text p
+{
+    margin-top: -10%;
+    font-size: 12px;
+    margin-left: 31%;
+    color: orange;
+}
+.text b
+{
+    top: 54%;
+    position: absolute;
+   margin-left: 6%;
+}
+.box1
+{
+    height: 240px;
+    width: 32%;
+    /* background-color: rgb(74, 124, 204); */
+    border: 1px solid grey;
+    padding: 16px 20px;
+
+}
+.box1 img
+{
+    border-radius: 50%;
+    height: 70px;
+    width: 25%;
+    margin-top: 18%;
+}
+.box2
+{
+    height: 240px;
+    width: 32%;
+    /* background-color: rgb(203, 134, 50); */
+    border: 1px solid grey;
+    padding: 16px 20px;
+
+}
+.box2 img
+{
+    border-radius: 50%;
+    height: 70px;
+    width: 25%;
+    margin-top: 18%;
+}
